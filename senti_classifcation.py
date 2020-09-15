@@ -2,7 +2,7 @@
 """
 Created on Thu Sep 10 21:48:49 2020
 
-@author: Raida
+@author: User
 """
 import nltk
 from nltk.corpus import stopwords
