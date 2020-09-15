@@ -2,7 +2,7 @@
 """
 Created on Wed Sep  9 17:02:16 2020
 
-@author: Raida
+@author: user
 """
 
 from dbconnect import *
